@@ -63,7 +63,7 @@ Grande parte do conteúdo desse workshop foi retirado de outras fontes gratuíta
 
 **Sites referências sobre programação**
 
-- Repositório de códigos: https://github.com/ (Todos os principais projetos open-soure estão no github!)
+- Repositório de códigos: https://github.com/ (Todos os principais projetos open-source estão no github!)
 - Comunidade de programadores: https://stackoverflow.com/ (Quase qualquer pergunta já foi feita nesse site!)
 - Comunidade de Data Science: https://www.kaggle.com/ (Inumeras competições, datasets e exemplos)
 - Medium: https://medium.com/search?q=python (Infinitos tutoriais bem interessantes.)
